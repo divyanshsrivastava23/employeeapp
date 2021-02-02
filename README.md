@@ -1,6 +1,5 @@
 # Employee App
-
-## App for managing the employee.
+- App for managing the employee.
 
 ## Installation
 
